@@ -1,2 +1,2 @@
-# mulheres-tech-
-repositório do que foi aprendido no curso Analista de big data do Senac 
+# MulheresTechGourmet
+Repositório para postagem de material das aulas da turma 1 de Análise de Dados - Big Data
